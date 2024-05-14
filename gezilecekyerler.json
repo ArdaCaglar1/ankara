@@ -1,22 +1,22 @@
 { "ankara":[
     {
     "isim" : "Ankara Kalesi",
-    "aciklama":"Bol oksijen, Dağın tepesinden yaklaşık 300 metre aşağıya iniliyor",
+    "aciklama":"Ankaranın eşsiz tarihine tanıklık etmiş,konumu dolayısıla oldukça öenmli bir yere sahip bir kale.",
     "fotourl": "https://github.com/ArdaCaglar1/ankara/blob/master/anitkabir.png"
     },
     {
     "isim": "Ulucanlar Cezaevi",
-    "aciklama":"Eşsiz bir doğa manzarası ve huzurlu bir ortam",
+    "aciklama":"Öncesinde aktif bir cezaevi olarak görev yapmıştır ve geçmişi dolayısıyla da şu an müze olarak gezilebilmektedir.",
     "fotourl": "https://github.com/ArdaCaglar1/ankara/blob/master/ulucanlar.png"
     },
     {
         "isim": "Anıtkabir",
-        "aciklama":"Eşsiz bir doğa manzarası ve huzurlu bir ortam",
+        "aciklama":"Türkiye Cumhuriyeti kurucusu Mustafa Kemal Atatürk'ün kabridir.",
         "fotourl": "https://github.com/ArdaCaglar1/ankara/blob/master/anitkabir.png"
     },
     {
         "isim": "Kugulu Park",
-        "aciklama":"Eşsiz bir doğa manzarası ve huzurlu bir ortam",
+        "aciklama":"Bulunduğu Çankaya ilçesinde mutlaka görülmesi gereken bir parktır.",
         "fotourl": "https://github.com/ArdaCaglar1/ankara/blob/master/kugulupark.png"
         }
         
